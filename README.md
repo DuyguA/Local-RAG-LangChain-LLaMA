@@ -1,7 +1,7 @@
 # Local RAG with LangChain, LLaMa and Hugging Face
 
 
-Welcome to the repo of the tutorial "Local RAG with LangChain, LLaMa and Hugging Face". This repo contains code and helper data of the [Youtube video tutorial](https://www.youtube.com/watch?v=46kWu6mC63s&list=PLJTHlIwB8VcpfpENOx86IHzLYyeG1nm9H&index=4), second video of the series ["Practical RAG with LangChain under 15 Minutes"](https://www.youtube.com/playlist?list=PLJTHlIwB8VcpfpENOx86IHzLYyeG1nm9H).
+Welcome to the repo of the tutorial "Local RAG with LangChain, LLaMa and Hugging Face". This repo contains code and helper data of the [Youtube video tutorial](https://www.youtube.com/watch?v=2QLIAT8zwps&list=PLJTHlIwB8VcpfpENOx86IHzLYyeG1nm9H&index=4), second video of the series ["Practical RAG with LangChain under 15 Minutes"](https://www.youtube.com/playlist?list=PLJTHlIwB8VcpfpENOx86IHzLYyeG1nm9H).
 
 In this part of the series, we implement local RAG code with a LLaMa model and a sentence transformer as the embedding model. We use langchain-huggingface library code for employing both the embeddings model and the LLM, all computations are made on GPU.
 
